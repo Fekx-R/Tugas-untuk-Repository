@@ -1,3 +1,5 @@
 name : Muhammad Fikri Ramadhan
 age : 23
 Job : Fullstack Dev
+nation : Indonesia
+status : single
